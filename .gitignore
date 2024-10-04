@@ -1,0 +1,7 @@
+.env
+env.py
+build
+dist
+snipping_tool.spec
+credentials.json
+venv
