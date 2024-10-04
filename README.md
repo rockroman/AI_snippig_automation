@@ -18,6 +18,7 @@
 ### Clone the repository:
 
 ```
+git clone https://github.com/rockroman/AI_snippig_automation.git
 
 ```
 
@@ -39,7 +40,7 @@ Usage
 ### Run the Application:
 
 ```
-python snipping_tool.py
+python tool_class.py
 ```
 
 ### Capture Screenshots:

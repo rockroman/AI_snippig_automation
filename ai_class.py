@@ -12,8 +12,9 @@ if os.path.isfile('env.py'):
 api_key = os.environ['OPENAI_API_KEY']
 
 
+
 class AI_helper:
-    def __init__(self,api_key:str = api_key,entries_to_sheet: dict={}):
+    def __init__(self,api_key,entries_to_sheet: dict={}):
         self.api_key = api_key
         self.entries_to_sheet = entries_to_sheet
      
